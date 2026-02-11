@@ -1,6 +1,6 @@
 # Claude Agent SDK Skill
 
-A [Claude Code skill](https://docs.anthropic.com/en/docs/agent-sdk/skills) that teaches Claude how to build applications with the Claude Agent SDK (`@anthropic-ai/claude-agent-sdk` or `lite-claude-agent-sdk`).
+A [Claude Code skill](https://docs.anthropic.com/en/docs/agent-sdk/skills) that teaches Claude how to build applications with the Claude Agent SDK (`@anthropic-ai/claude-agent-sdk` or `open-claude-agent-sdk`).
 
 Covers the full API surface: query options, hooks, MCP servers, multi-turn conversations, streaming, permissions, structured output, and session management.
 
