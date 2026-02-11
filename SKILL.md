@@ -1,6 +1,6 @@
 ---
 name: claude-agent-sdk
-description: Guide for building applications with the Claude Agent SDK (lite-claude-agent-sdk or @anthropic-ai/claude-agent-sdk). Use when developing apps that spawn Claude as a subprocess, including query options, hooks, MCP servers, multi-turn conversations, streaming, permissions, structured output, and session management.
+description: Guide for building applications with the Claude Agent SDK (open-claude-agent-sdk or @anthropic-ai/claude-agent-sdk). Use when developing apps that spawn Claude as a subprocess, including query options, hooks, MCP servers, multi-turn conversations, streaming, permissions, structured output, and session management.
 ---
 
 # Claude Agent SDK
